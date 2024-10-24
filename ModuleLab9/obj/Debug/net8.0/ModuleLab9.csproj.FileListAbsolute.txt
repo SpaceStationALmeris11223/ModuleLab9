@@ -1,0 +1,14 @@
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.AssemblyInfoInputs.cache
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.AssemblyInfo.cs
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.csproj.CoreCompileInputs.cache
+C:\School\C#\Labs\Lab9\ModuleLab9\bin\Debug\net8.0\ModuleLab9.exe
+C:\School\C#\Labs\Lab9\ModuleLab9\bin\Debug\net8.0\ModuleLab9.deps.json
+C:\School\C#\Labs\Lab9\ModuleLab9\bin\Debug\net8.0\ModuleLab9.runtimeconfig.json
+C:\School\C#\Labs\Lab9\ModuleLab9\bin\Debug\net8.0\ModuleLab9.dll
+C:\School\C#\Labs\Lab9\ModuleLab9\bin\Debug\net8.0\ModuleLab9.pdb
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.dll
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\refint\ModuleLab9.dll
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.pdb
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ModuleLab9.genruntimeconfig.cache
+C:\School\C#\Labs\Lab9\ModuleLab9\obj\Debug\net8.0\ref\ModuleLab9.dll
